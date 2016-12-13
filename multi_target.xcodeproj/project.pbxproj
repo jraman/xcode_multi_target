@@ -12,9 +12,10 @@
 		5E66E4571DFFB8B30078B049 /* shared_stuff.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5E66E4551DFFB8B30078B049 /* shared_stuff.cpp */; };
 		5E66E4581DFFB8B30078B049 /* shared_stuff.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5E66E4551DFFB8B30078B049 /* shared_stuff.cpp */; };
 		5E66E4601DFFB9CA0078B049 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5E66E45F1DFFB9CA0078B049 /* main.cpp */; };
-		5E66E4641DFFBA300078B049 /* shared_stuff.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5E66E4551DFFB8B30078B049 /* shared_stuff.cpp */; };
 		5E66E4661DFFBE680078B049 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 5E66E4651DFFBE680078B049 /* README.md */; };
 		5E66E4671DFFBE680078B049 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 5E66E4651DFFBE680078B049 /* README.md */; };
+		5E66E4681DFFC0FF0078B049 /* shared_stuff.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5E66E4551DFFB8B30078B049 /* shared_stuff.cpp */; };
+		5E66E4691DFFC16A0078B049 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 5E66E4651DFFBE680078B049 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -260,8 +261,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5E66E4691DFFC16A0078B049 /* README.md in Sources */,
 				5E66E4601DFFB9CA0078B049 /* main.cpp in Sources */,
-				5E66E4641DFFBA300078B049 /* shared_stuff.cpp in Sources */,
+				5E66E4681DFFC0FF0078B049 /* shared_stuff.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
